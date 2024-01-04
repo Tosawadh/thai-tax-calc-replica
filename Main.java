@@ -3,9 +3,6 @@ import java.lang.Float;
 
 public class Main {
     float personal;
-    float govt1, govt2;
-    float shop1, shop2, shop3, shop4;
-    float donate1, donate2;
     boolean isMarried, isEmployee;
 
     Scanner inputA = new Scanner(System.in);
