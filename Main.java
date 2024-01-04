@@ -84,8 +84,7 @@ public class Main {
                 }
             }
         }
-        float x = 120000;
-        if (Float.compare(incomeFinal, x) < 0) {
+        if (Float.compare(incomeFinal, 120000) < 0) { // troubleshooting
             personal = 0;
         }
         else if (isMarried == false) {
