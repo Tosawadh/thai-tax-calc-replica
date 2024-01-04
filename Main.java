@@ -124,6 +124,8 @@ public class Main {
         parent = parent * 30000;
         parentInsur = parentInsur * 15000;
 
+        // not finished yet
+
     }
     public static void main(String args[]) {
         Main run = new Main();
